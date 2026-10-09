@@ -1,4 +1,4 @@
-# Pedro: Louisiana Card Game — website
+# Pedro! — website
 
 Support page and privacy policy for the Pedro iOS app, served with GitHub Pages.
 
